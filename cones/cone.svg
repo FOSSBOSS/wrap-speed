@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="118.66657mm"
+   height="191.63141mm"
+   viewBox="0 0 118.66658 191.63141"
+   version="1.1"
+   id="svg3123"
+   sodipodi:docname="cone.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3125"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.32382506"
+     inkscape:cx="-324.24915"
+     inkscape:cy="316.52894"
+     inkscape:window-width="1521"
+     inkscape:window-height="923"
+     inkscape:window-x="1858"
+     inkscape:window-y="234"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
+  <defs
+     id="defs3120" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.66729,-10.806594)">
+    <path
+       id="rect924"
+       style="fill:#ff0000;stroke:#ff0000"
+       d="M 43.16729,11.896917 C 96.243549,32.854798 134.51583,123.20404 160.61915,201.93801 H 43.16729 Z"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
